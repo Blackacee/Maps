@@ -1,2 +1,3 @@
 # Maps
-Creating maps in JS 
+
+const map = new Map();
